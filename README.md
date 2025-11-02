@@ -1,4 +1,4 @@
-✅ AI-Powered Task Manager (BitHub)
+✅** AI-Powered Task Manager** 
 
 A modern, interactive task-management web app powered by Vue.js, TailwindCSS, and AI automation.
 It helps users organize, prioritize, and complete tasks with smart suggestions, rewards, and a clean UI.
@@ -77,3 +77,8 @@ Tasks
 User points
 
 Earned badges
+
+<img width="1011" height="599" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/d95b0755-cecb-4ad1-8c3d-5211cb943724" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/64608fa3-c51c-4a0a-8aa4-516a9787b423" />
+
+
